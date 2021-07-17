@@ -1,7 +1,7 @@
 # Cracks_Detection
 
 ### I am a Civil Engineer and AI Engineer 
-### That is one of my Application of AI & ML in Civil Engineering Field
+### That is one of my Application using AI & ML in Civil Engineering Field
 
 ### Concrete surface cracks are major defect in Civil structures. 
 Building Inspection which is done for the evaluation of rigidity and tensile strength of the building. 
