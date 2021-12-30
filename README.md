@@ -7,8 +7,6 @@ Crack detection plays a major role in the building inspection, finding the crack
 #### Dataset Link:
 [Dataset Link](https://www.kaggle.com/arunrk7/surface-crack-detection)
 
-![Link](https://www.kaggle.com/arunrk7/surface-crack-detection)
-
 #### LinkedIn:
 [LinkedIn Profile](https://www.linkedin.com/in/mlagoor/)
 
